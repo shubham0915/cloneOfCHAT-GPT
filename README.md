@@ -1,1 +1,2 @@
-# chatgptclone
+# fun clone of chatgpt
+
